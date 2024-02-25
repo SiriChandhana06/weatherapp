@@ -1,0 +1,9 @@
+#App{
+    background-image: url('assests/bg.jpg') ;
+    background-repeat:no-repeat ;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
